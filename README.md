@@ -2,29 +2,32 @@
 
 # Data Science Tools and Ecosystem
 
-This repository contains the final assignment for the "Tools for Data Science" course on Coursera, offered by IBM. The notebook summarizes key concepts and tools essential for data science professionals.
+This repository contains the final assignment for the *"Tools for Data Science"* course on Coursera, offered by IBM. The notebook summarizes key tools, libraries, and concepts every data science professional should know.
 
-## 📘 Notebook Overview
+## 📘 Notebook Contents
 
-The Jupyter Notebook DataScienceEcosystem.ipynb includes:
+The notebook DataScienceEcosystem.ipynb includes:
 
-- An overview of Data Science tools and ecosystems
-- A list of popular programming languages used in Data Science
-- Commonly used libraries and frameworks
-- A table of open-source development environments
-- A code example to convert minutes into hours
-- Clearly stated objectives and author information
+- A title and introduction to the Data Science ecosystem
+- Popular programming languages used in data science
+- Commonly used libraries like Pandas, NumPy, and Matplotlib
+- Open-source development tools (e.g., Jupyter Notebook, RStudio)
+- Simple Python code to convert minutes into hours
+- Author and objectives section
 
-## 📌 Course Information
+## 🖼 Preview
+
+![Notebook Preview](1-notebook.png)
+
+## 🔗 Course Info
 
 - *Course*: Tools for Data Science  
-- *Platform*: Coursera (IBM Professional Certificate)
+- *Platform*: Coursera (IBM Data Science Certificate)
 - *Module*: Final Assignment (Module 6)
 
 ## 🧑‍💻 Author
 
-*Rishabh Singhal*  
-Student of Data Science and Machine Learning
+*Rishabh Singhal*
 
 ## 🔗 How to View
 
